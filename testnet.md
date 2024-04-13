@@ -126,10 +126,12 @@ Go to xfiConsole. “Staking” section. Click the “Bond”.
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/66f0c685-3157-44ad-951b-f85d00a30e84)
 
 Find our validator in the list. Enter the amount of MPX token (the more you stake, the more XFI tokens you earn). Select the token with which the commission will be paid. Click “Confirm”.
+
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/33772057-bc9e-47c7-8755-896898e49077)
 
 Once you have completed delegation. The validator will be displayed.
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/87faf250-98be-4b78-bba2-2a6663529cf4)
+
 Don’t forget to copy the hash and confirm the task.
 
 
@@ -139,6 +141,7 @@ To complete this task, you must first delegate the token to the validator, other
 When storing a token in a validator, you are awarded rewards in the form of an XFI token.
 Click “Claim”. The token will be credited to your wallet.
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/9d807b2f-ec0c-4b07-b768-9109d878a3f7)
+
 Don’t forget to copy the hash and confirm the task.
 
 
@@ -148,9 +151,11 @@ Send to any of your EVM addresses. Or you can send it to our validator address
 
 You receive the XFT token for completing tasks.
 In TestPad, in the “XFT Earnings” — “In the Archive” section, you can see how much XFT we receive for completing a task.
+
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/07ff324a-08e3-4e96-bdbc-2c014f0b3172)
 
 And so, first we import XFT into MM. Open MM, click “Import tokens”.
+
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/d4790c0a-7f1d-4509-acbe-674e81432ee2)
 
 Add address contract token:
@@ -159,6 +164,7 @@ Click “Next” — “Import”.
 
 Now we can send any amount of XFT to any address. Select a token, enter the amount and click “Next”. We confirm the transaction.
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/b3f3b210-be7e-4171-a53e-43b3ee74fcb2)
+
 Don’t forget to copy the hash and confirm the task.
 
 
@@ -170,6 +176,7 @@ mx1lre97net6lqmy0k3ssmcpkw0fhe59gs3gh53yu
 Go to xfiConsole. “Wallet” section. Click the “Add Recipient” button, another field will appear to fill out.
 Further everything is as in Task#2, only we select different tokens to send. Enter wallet addresses, token and amount. Click “Send”.
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/bad97a46-4620-4412-aa01-7e776cc30dcc)
+
 Don’t forget to copy the hash and confirm the task.
 
 
