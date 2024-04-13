@@ -104,6 +104,7 @@ Enter your wallet address and amount of tokens. Click Next.
 
 On the next window, check the entered data and click “Send”.
 ![image](https://github.com/W3FGoldman/CrossFi/assets/127931761/9d30281a-6406-4369-b727-fcc29572874e)
+
 Don’t forget to copy the hash and confirm the task.
 
 
