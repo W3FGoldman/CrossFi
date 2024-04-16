@@ -1,7 +1,9 @@
 sudo apt update && sudo apt upgrade -y
+
 sudo apt install curl git wget build-essential jq lz4 gcc unzip -y
 
 #install go
+
 cd $HOME
 sudo rm -rf /usr/local/go
 version="1.22.2"
