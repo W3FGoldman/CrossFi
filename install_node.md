@@ -96,5 +96,7 @@ curl "https://tools.web3forces.com/snap_testnet-crossfi.tar.lz4" | lz4 -dc - | t
 
 # start service
 sudo systemctl daemon-reload
+
 sudo systemctl enable crossfid
+
 sudo systemctl restart crossfid && sudo journalctl -u crossfid -f
